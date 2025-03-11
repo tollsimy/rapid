@@ -1,6 +1,6 @@
 # Example custom classifier template
 
-from benchmark_classifier import BenchmarkClassifierInterface
+from rapid.benchmark_classifier import BenchmarkClassifierInterface
 import re
 from typing import Optional
 
