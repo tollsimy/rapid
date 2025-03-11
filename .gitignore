@@ -1,0 +1,11 @@
+inject/**
+results/**
+plots/**
+**/__pycache__/**
+tests.log
+fault_analysis.db
+**/*.egg-info
+env/
+TODO.md
+log/**
+classifiers/**
